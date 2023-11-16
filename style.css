@@ -1,6 +1,14 @@
 h1{
-    color: aquamarine;
+    color: rgb(138, 8, 224);
     text-align: center;
     font-size: 60px;
-    background-color: black;
+    background-color: rgb(228, 228, 228);
+}
+
+h2{ 
+    color:blueviolet
+    text-align:aliceblue
+}
+p{
+
 }
