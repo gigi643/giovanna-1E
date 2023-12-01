@@ -6,9 +6,12 @@ h1{
 }
 
 h2{ 
-    color:blueviolet
-    text-align:aliceblue
+    color:blueviolet;
+    font- size 40px;
+    text-align:center;
 }
-p{
-
+#imagem1{
+    width:50%;
+    margin: auto;
+    display: blonk;
 }
